@@ -1,9 +1,11 @@
-🚀 API Restful em Java com Spring Boot, Docker e Arquitetura em Camadas
+ 🚀 Projetos em Java: APIs com Spring Boot, Programação Orientada a Objetos e Arquitetura em camadas
 
-Este repositório contém dois projetos desenvolvidos em Java com Spring Boot, ambos estruturados com arquitetura em camadas (Controller, Service, Repository, Config, Entity) e preparados para execução com Docker.
+Este repositório contém projetos desenvolvidos em Java, abrangendo APIs com Spring Boot e aplicações baseadas em Programação Orientada a Objetos (POO).
 
-🎮 ListaJogo: Uma API para gerenciar uma lista de jogos, com operações CRUD e organização em módulos (DTO, Entities, Services, Repositories).
+🎮 ListaJogo: API REST para gerenciar uma lista de jogos com operações CRUD, organizada em camadas (DTO, Entities, Services, Repositories).
 
+📦 Pedidos-API: Microsserviço de gerenciamento de pedidos, criado como parte de um curso de microsserviços, com arquitetura modular e integração de serviços.
 
-📦 Pedidos-API: Um microsserviço para gerenciamento de pedidos, desenvolvido como parte de um curso de microsserviços, com ênfase em modularização e integração.
-Ambos os projetos seguem boas práticas de desenvolvimento, priorizando a organização do código, a escalabilidade e a fácil manutenção.
+💻 Projetos de POO: Aplicações em Java utilizando os princípios da Programação Orientada a Objetos, como herança, encapsulamento e polimorfismo, incluindo funcionalidades como cadastro de produtos, gerenciamento de contas e sistema de loja.
+
+Os projetos priorizam boas práticas, arquitetura em camadas e organização modular do código.
